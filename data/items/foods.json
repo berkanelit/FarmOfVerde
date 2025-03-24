@@ -1,0 +1,43 @@
+[
+    {
+        "id": "food_bread",
+        "name": "Bread",
+        "description": "A simple loaf of bread.",
+        "item_type": "FOOD",
+        "value": 60,
+        "stack_size": 99,
+        "icon_path": "assets/images/items/foods/bread.png",
+        "energy_restore": 50,
+        "health_restore": 20,
+        "buffs": {},
+        "buff_duration": 0
+    },
+    {
+        "id": "food_salad",
+        "name": "Salad",
+        "description": "A fresh garden salad.",
+        "item_type": "FOOD",
+        "value": 110,
+        "stack_size": 99,
+        "icon_path": "assets/images/items/foods/salad.png",
+        "energy_restore": 80,
+        "health_restore": 45,
+        "buffs": {},
+        "buff_duration": 0
+    },
+    {
+        "id": "food_vegetable_stew",
+        "name": "Vegetable Stew",
+        "description": "A hearty stew made from vegetables.",
+        "item_type": "FOOD",
+        "value": 200,
+        "stack_size": 99,
+        "icon_path": "assets/images/items/foods/vegetable_stew.png",
+        "energy_restore": 160,
+        "health_restore": 70,
+        "buffs": {
+            "farming": 1
+        },
+        "buff_duration": 120
+    }
+]

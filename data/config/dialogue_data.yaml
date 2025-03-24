@@ -1,0 +1,26 @@
+farming:
+- "Mahsul\xFCn iyi g\xF6r\xFCn\xFCyor!"
+- "\xC7ift\xE7ilik nas\u0131l gidiyor?"
+- "Bu sezon i\xE7in iyi bir hasat olacak."
+- "Ne ekmeyi planl\u0131yorsun?"
+generic:
+- "Hmm, ilgin\xE7."
+- "Anl\u0131yorum."
+- Devam et.
+- "Ba\u015Fka?"
+- "Bu konuda daha fazla \u015Fey duymak isterim."
+greetings:
+- Merhaba!
+- "Selam, nas\u0131ls\u0131n?"
+- "G\xFCzel bir g\xFCn, de\u011Fil mi?"
+- "Bug\xFCn nas\u0131ls\u0131n?"
+shop:
+- "Bir \u015Feyler sat\u0131n almak ister misin?"
+- "Bug\xFCn \xF6zel indirimlerim var."
+- "En kaliteli \xFCr\xFCnleri sat\u0131yorum."
+- "Neye ihtiyac\u0131n var?"
+weather:
+- "Hava bug\xFCn \xE7ok g\xFCzel."
+- "Ya\u011Fmur ya\u011Facak gibi g\xF6r\xFCn\xFCyor."
+- "Bu mevsim i\xE7in olduk\xE7a s\u0131cak."
+- "Hava \xE7ok g\xFCzel, de\u011Fil mi?"

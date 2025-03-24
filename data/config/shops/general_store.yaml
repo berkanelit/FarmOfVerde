@@ -1,0 +1,23 @@
+buy_multiplier: 0.5
+items:
+- id: turnip_seed
+  price_multiplier: 1.0
+  quantity: 20
+- id: potato_seed
+  price_multiplier: 1.0
+  quantity: 15
+- id: tomato_seed
+  price_multiplier: 1.0
+  quantity: 10
+- id: hoe
+  price_multiplier: 1.0
+  quantity: 1
+- id: watering_can
+  price_multiplier: 1.0
+  quantity: 1
+- id: axe
+  price_multiplier: 1.0
+  quantity: 1
+name: general_store
+owner: Pierre
+sell_multiplier: 1.0

@@ -1,0 +1,93 @@
+[
+    {
+        "id": "crop_turnip",
+        "name": "Turnip",
+        "description": "A spring crop.",
+        "item_type": "CROP",
+        "value": 35,
+        "stack_size": 99,
+        "icon_path": "assets/images/items/crops/turnip.png",
+        "seed_id": "seed_turnip",
+        "grow_time": 5,
+        "energy_restore": 15,
+        "health_restore": 5,
+        "is_regrowable": false,
+        "regrow_time": 0,
+        "seasons": [
+            "Spring"
+        ]
+    },
+    {
+        "id": "crop_potato",
+        "name": "Potato",
+        "description": "A starchy tuber.",
+        "item_type": "CROP",
+        "value": 80,
+        "stack_size": 99,
+        "icon_path": "assets/images/items/crops/potato.png",
+        "seed_id": "seed_potato",
+        "grow_time": 6,
+        "energy_restore": 25,
+        "health_restore": 10,
+        "is_regrowable": false,
+        "regrow_time": 0,
+        "seasons": [
+            "Spring"
+        ]
+    },
+    {
+        "id": "crop_tomato",
+        "name": "Tomato",
+        "description": "A juicy summer fruit.",
+        "item_type": "CROP",
+        "value": 60,
+        "stack_size": 99,
+        "icon_path": "assets/images/items/crops/tomato.png",
+        "seed_id": "seed_tomato",
+        "grow_time": 11,
+        "energy_restore": 20,
+        "health_restore": 8,
+        "is_regrowable": true,
+        "regrow_time": 4,
+        "seasons": [
+            "Summer"
+        ]
+    },
+    {
+        "id": "crop_corn",
+        "name": "Corn",
+        "description": "A tall grain with high yield.",
+        "item_type": "CROP",
+        "value": 50,
+        "stack_size": 99,
+        "icon_path": "assets/images/items/crops/corn.png",
+        "seed_id": "seed_corn",
+        "grow_time": 14,
+        "energy_restore": 18,
+        "health_restore": 5,
+        "is_regrowable": true,
+        "regrow_time": 4,
+        "seasons": [
+            "Summer",
+            "Fall"
+        ]
+    },
+    {
+        "id": "crop_pumpkin",
+        "name": "Pumpkin",
+        "description": "A fall crop with many uses.",
+        "item_type": "CROP",
+        "value": 320,
+        "stack_size": 99,
+        "icon_path": "assets/images/items/crops/pumpkin.png",
+        "seed_id": "seed_pumpkin",
+        "grow_time": 13,
+        "energy_restore": 45,
+        "health_restore": 20,
+        "is_regrowable": false,
+        "regrow_time": 0,
+        "seasons": [
+            "Fall"
+        ]
+    }
+]

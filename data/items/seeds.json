@@ -1,0 +1,78 @@
+[
+    {
+        "id": "seed_turnip",
+        "name": "Turnip Seeds",
+        "description": "Plant these in spring. Takes 5 days to mature.",
+        "item_type": "SEED",
+        "value": 20,
+        "stack_size": 99,
+        "icon_path": "assets/images/items/seeds/turnip_seed.png",
+        "crop_id": "crop_turnip",
+        "grow_time": 5,
+        "regrow_time": 0,
+        "season": [
+            "Spring"
+        ]
+    },
+    {
+        "id": "seed_potato",
+        "name": "Potato Seeds",
+        "description": "Plant these in spring. Takes 6 days to mature.",
+        "item_type": "SEED",
+        "value": 50,
+        "stack_size": 99,
+        "icon_path": "assets/images/items/seeds/potato_seed.png",
+        "crop_id": "crop_potato",
+        "grow_time": 6,
+        "regrow_time": 0,
+        "season": [
+            "Spring"
+        ]
+    },
+    {
+        "id": "seed_tomato",
+        "name": "Tomato Seeds",
+        "description": "Plant these in summer. Takes 11 days to mature, but keeps producing after that.",
+        "item_type": "SEED",
+        "value": 50,
+        "stack_size": 99,
+        "icon_path": "assets/images/items/seeds/tomato_seed.png",
+        "crop_id": "crop_tomato",
+        "grow_time": 11,
+        "regrow_time": 4,
+        "season": [
+            "Summer"
+        ]
+    },
+    {
+        "id": "seed_corn",
+        "name": "Corn Seeds",
+        "description": "Plant these in summer or fall. Takes 14 days to mature, but keeps producing after that.",
+        "item_type": "SEED",
+        "value": 150,
+        "stack_size": 99,
+        "icon_path": "assets/images/items/seeds/corn_seed.png",
+        "crop_id": "crop_corn",
+        "grow_time": 14,
+        "regrow_time": 4,
+        "season": [
+            "Summer",
+            "Fall"
+        ]
+    },
+    {
+        "id": "seed_pumpkin",
+        "name": "Pumpkin Seeds",
+        "description": "Plant these in fall. Takes 13 days to mature.",
+        "item_type": "SEED",
+        "value": 100,
+        "stack_size": 99,
+        "icon_path": "assets/images/items/seeds/pumpkin_seed.png",
+        "crop_id": "crop_pumpkin",
+        "grow_time": 13,
+        "regrow_time": 0,
+        "season": [
+            "Fall"
+        ]
+    }
+]

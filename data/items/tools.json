@@ -1,0 +1,57 @@
+[
+    {
+        "id": "tool_hoe",
+        "name": "Hoe",
+        "description": "Used to till soil for planting.",
+        "item_type": "TOOL",
+        "value": 500,
+        "stack_size": 1,
+        "icon_path": "assets/images/items/tools/hoe.png",
+        "tool_level": 1,
+        "energy_cost": 2
+    },
+    {
+        "id": "tool_watering_can",
+        "name": "Watering Can",
+        "description": "Used to water crops.",
+        "item_type": "TOOL",
+        "value": 500,
+        "stack_size": 1,
+        "icon_path": "assets/images/items/tools/watering_can.png",
+        "tool_level": 1,
+        "energy_cost": 1
+    },
+    {
+        "id": "tool_axe",
+        "name": "Axe",
+        "description": "Used to chop down trees.",
+        "item_type": "TOOL",
+        "value": 500,
+        "stack_size": 1,
+        "icon_path": "assets/images/items/tools/axe.png",
+        "tool_level": 1,
+        "energy_cost": 4
+    },
+    {
+        "id": "tool_pickaxe",
+        "name": "Pickaxe",
+        "description": "Used to break rocks.",
+        "item_type": "TOOL",
+        "value": 500,
+        "stack_size": 1,
+        "icon_path": "assets/images/items/tools/pickaxe.png",
+        "tool_level": 1,
+        "energy_cost": 4
+    },
+    {
+        "id": "tool_scythe",
+        "name": "Scythe",
+        "description": "Used to harvest crops and cut grass.",
+        "item_type": "TOOL",
+        "value": 500,
+        "stack_size": 1,
+        "icon_path": "assets/images/items/tools/scythe.png",
+        "tool_level": 1,
+        "energy_cost": 1
+    }
+]
