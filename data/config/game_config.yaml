@@ -1,0 +1,13 @@
+ai:
+  dialogue_model: small
+  use_simple_ai: true
+audio:
+  music_volume: 0.5
+  sfx_volume: 0.7
+display:
+  fullscreen: false
+  height: 600
+  width: 800
+gameplay:
+  day_length_minutes: 15
+  season_days: 28

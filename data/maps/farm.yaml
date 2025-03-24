@@ -1,0 +1,2552 @@
+height: 30
+objects:
+- type: bush
+  walkable: false
+  x: 17
+  y: 25
+- type: bush
+  walkable: false
+  x: 39
+  y: 0
+- type: bush
+  walkable: false
+  x: 9
+  y: 9
+- type: stump
+  walkable: false
+  x: 15
+  y: 24
+- type: rock
+  walkable: false
+  x: 28
+  y: 7
+- type: bush
+  walkable: false
+  x: 3
+  y: 15
+- type: stump
+  walkable: false
+  x: 32
+  y: 19
+- type: stump
+  walkable: false
+  x: 8
+  y: 3
+- type: rock
+  walkable: false
+  x: 12
+  y: 6
+- type: stump
+  walkable: false
+  x: 11
+  y: 2
+- type: stump
+  walkable: false
+  x: 2
+  y: 24
+- type: tree
+  walkable: false
+  x: 26
+  y: 24
+- type: bush
+  walkable: false
+  x: 7
+  y: 26
+- type: bush
+  walkable: false
+  x: 6
+  y: 14
+- type: stump
+  walkable: false
+  x: 38
+  y: 1
+- type: bush
+  walkable: false
+  x: 35
+  y: 24
+- type: tree
+  walkable: false
+  x: 39
+  y: 7
+- type: rock
+  walkable: false
+  x: 13
+  y: 26
+- type: stump
+  walkable: false
+  x: 37
+  y: 7
+- type: rock
+  walkable: false
+  x: 11
+  y: 23
+- type: stump
+  walkable: false
+  x: 9
+  y: 9
+- type: stump
+  walkable: false
+  x: 13
+  y: 25
+- type: rock
+  walkable: false
+  x: 6
+  y: 27
+- type: tree
+  walkable: false
+  x: 19
+  y: 25
+- type: bush
+  walkable: false
+  x: 2
+  y: 0
+- type: rock
+  walkable: false
+  x: 30
+  y: 14
+- type: bush
+  walkable: false
+  x: 5
+  y: 6
+- type: tree
+  walkable: false
+  x: 8
+  y: 23
+- type: rock
+  walkable: false
+  x: 30
+  y: 27
+- type: rock
+  walkable: false
+  x: 30
+  y: 1
+- type: stump
+  walkable: false
+  x: 10
+  y: 19
+- type: bush
+  walkable: false
+  x: 12
+  y: 6
+- type: rock
+  walkable: false
+  x: 32
+  y: 19
+- type: rock
+  walkable: false
+  x: 36
+  y: 2
+- type: stump
+  walkable: false
+  x: 8
+  y: 19
+- type: rock
+  walkable: false
+  x: 35
+  y: 15
+- type: stump
+  walkable: false
+  x: 9
+  y: 0
+tiles:
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: false
+- - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: false
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+- - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+- - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+- - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+- - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: false
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+- - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: dirt
+    walkable: true
+  - type: grass
+    walkable: true
+  - type: grass
+    walkable: true
+width: 40

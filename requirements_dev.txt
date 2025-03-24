@@ -7,5 +7,10 @@ coverage==4.5.4
 Sphinx==7.2.6
 twine==5.0.0
 ruff==0.3.5
-
-
+pygame>=2.5.0
+pgzero>=1.2.1
+numpy>=1.25.0
+torch>=2.0.0
+transformers>=4.30.0
+pyyaml>=6.0
+pillow>=10.0.0
