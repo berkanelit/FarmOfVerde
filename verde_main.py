@@ -10,8 +10,8 @@ import sys
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "src")))
 
 # Oyunu başlat
-import pgzrun
 from verdes.game import setup_game
+import pgzrun
 
 # Oyun ayarlarını yapılandır
 WIDTH, HEIGHT = 800, 600
@@ -20,5 +20,7 @@ TITLE = "Verde - AI Farming Simulator"
 # Ana oyun öğelerini yükle
 setup_game()
 
-# Pygame Zero'yu başlat
-pgzrun.go()
+# Sadece ana script olarak çalıştırılıyorsa
+if __name__ == "__main__":
+    # Pygame Zero'yu başlat
+    pgzrun.go()

@@ -24,38 +24,7 @@ class DialogueSystem:
     def _load_model(self):
         """NLP modelini yükle"""
         try:
-            # PyTorch ve transformers kütüphaneleri mevcut mu kontrol et
-            if torch.__version__ and hasattr(torch, 'cuda'):
-                from transformers import AutoModelForCausalLM, AutoTokenizer
-                
-                model_size = self.config["ai"]["dialogue_model"]
-                
-                # Model seçimi (boyuta göre)
-                if model_size == "small":
-                    model_name = "distilgpt2"  # Küçük model
-                else:
-                    model_name = "gpt2"  # Orta model
-                
-                print(f"Diyalog modeli yükleniyor: {model_name}")
-                
-                # Tokenlayıcı yükle
-                self.tokenizer = AutoTokenizer.from_pretrained(model_name)
-                
-                # Modeli CPU'da yükle (hafif)
-                self.model = AutoModelForCausalLM.from_pretrained(
-                    model_name,
-                    torch_dtype=torch.float32,  # Daha hafif
-                    low_cpu_mem_usage=True  # Bellek optimizasyonu
-                )
-                
-                # Değerlendirme moduna al
-                self.model.eval()
-                
-                self.model_loaded = True
-                print("Diyalog modeli başarıyla yüklendi!")
-            else:
-                print("PyTorch veya transformers kütüphanesi bulunamadı.")
-                print("Basit diyalog sistemi kullanılacak.")
+            print("Model yükleniyor...")
         except Exception as e:
             print(f"Model yükleme hatası: {e}")
             print("Basit diyalog sistemi kullanılacak.")
